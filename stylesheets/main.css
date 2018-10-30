@@ -8,7 +8,7 @@
 
 
 /* Table of contents
-–––––––––––––––––––––––––––––––––––––––––––––––––– 
+––––––––––––––––––––––––––––––––––––––––––––––––––
 - 1. Common
 - 2. Header
 - 3. Footer
@@ -239,7 +239,7 @@ footer.mastfoot h5{
   background-color: #222;
   background-position: center center;
   background-size: cover;
-  border-bottom:solid 20px #080808; 
+  border-bottom:solid 20px #080808;
 }
 
 /* 4Navigation
@@ -313,27 +313,29 @@ nav.mastnav ul li{
 }
 .intro07 .tp-bullets.simplebullets.round .bullet::before{
   width: 60px;
-  border-radius:0; 
+  border-radius:0;
   margin-left: -60px;
 }
 .intro07 .tp-bullets.simplebullets.round .bullet.selected {
   width: 60px;
-  border-radius:0; 
+  border-radius:0;
   margin-left: -58px;
 }
 .featured-caption-one{
     font-size: 24px;
     line-height: 24px;
+    /* background-color: black; */
 }
 
 
 .featured-caption-one span{
-    font-size: 72px;
+    /* color:white; */
+    font-size: 2em;
     line-height: 72px;
     text-transform: uppercase;
     border-top: solid 10px;
     padding-top: 0px;
-    margin-left: 960px;
+    margin-left: 860px;
 }
 .cd-intro{
   text-align: left;
@@ -341,7 +343,7 @@ nav.mastnav ul li{
   width: 100%;
   margin-top: 10px;
 }
-.cd-headline{    
+.cd-headline{
     font-size: 36px;
     line-height: 43px;
 }
@@ -406,7 +408,7 @@ nav.mastnav ul li{
   left: 50%;
   margin-left: -125px;
   text-align: center;
-  border: double 12px; 
+  border: double 12px;
   -webkit-transition: all .4s linear;
      -moz-transition: all .4s linear;
     -ms-transition: all .4s linear;
@@ -806,16 +808,16 @@ nav.mastnav ul li{
         margin-left: -50px;
         border: double 8px;
         }
-        .works-item-inner h3 > span{ 
+        .works-item-inner h3 > span{
             font-size: 12px;
             letter-spacing: normal;
             line-height: 19px;
             text-transform: none;
         }
-        .works-item-inner p{  
+        .works-item-inner p{
           margin-bottom: 0;
         }
-        .works-item-inner p > span{  
+        .works-item-inner p > span{
             font-size: 14px;
             line-height: 25px;
             margin-top: 0px;
@@ -887,7 +889,7 @@ nav.mastnav ul li{
 
 /* 6Utilities
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* Portfolio Isotope Transitions */ 
+/* Portfolio Isotope Transitions */
 
 .isotope, .isotope .isotope-item {
     -webkit-transition-duration: 0.8s;
@@ -1274,7 +1276,7 @@ fieldset h1 {
 .animated{
   visibility: hidden;
 }
-.parallax{    
+.parallax{
     /*css for stellar BG parallax*/
     background-attachment: fixed;
     width:100%;
@@ -1304,7 +1306,7 @@ fieldset h1 {
 
 
 /*–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
-/*LESS Compiled to CSS for preview purposes only 
+/*LESS Compiled to CSS for preview purposes only
 (Please read PDF guide to manage colors via LESS with just a single line of code editing)*/
 /*–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 .color{color:#ec1a49}.white{color:#fff}.silver{color:#f0f4f4}.grey{color:#999}.dark{color:#292929}.black{color:#121212}.color-bg{background-color:#ec1a49}.white-bg{background-color:#fff}.silver-bg{background-color:#f0f4f4}.grey-bg{background-color:#999}.dark-bg{background-color:#292929}.black-bg{background-color:#121212}.font1{font-family:'Open Sans',sans-serif}.font2{font-family:'Montserrat',sans-serif}.font3{font-family:'designova_ss_regular',sans-serif}.font3xblack{font-family:'designova_ss_xblack',sans-serif}.font3black{font-family:'designova_ss_black',sans-serif}.font3bold{font-family:'designova_ss_bold',sans-serif}.font3light{font-family:'designova_ss_light',sans-serif}.font3xlight{font-family:'designova_ss_xlight',sans-serif}.font3thin{font-family:'designova_ss_thin',sans-serif}a{color:#121212}a:hover{color:#ec1a49!important}::selection{background:#ec1a49;color:#fff}::-moz-selection{background:#ec1a49;color:#fff}.btn-ignite-color{background-color:#ec1a49!important;color:#fff!important}.btn-ignite-color:hover{background-color:#121212!important;color:#fff!important}.btn-ignite-dark:hover,.btn-ignite-white:hover{background-color:#ec1a49!important}nav.mastnav{border-color:#fff}.works-filter li a{color:#fff}.works-filter li a:hover{color:#ec1a49!important}.filter-notification,.filter-notification:visited{color:#121212!important}.works-item-inner{background-color:#292929!important}.works-thumbnails-view .works-item-inner p > span{border-color:#fff}.works-item-inner h3 > span{border-color:#ec1a49}.team-overlay{border-color:#ec1a49}.team .owl-controls{background-color:#121212}.main-link{color:#292929}.sub-menu a{color:#292929}.main-link:hover,.sub-menu a:hover{color:#ec1a49!important}.project-nav-icon-wrap li:hover{background-color:#ec1a49}.filter-active span{color:#ec1a49}.cd-headline.loading-bar .cd-words-wrapper::after{background-color:#ec1a49}.intro07 .tp-bullets.simplebullets.round .bullet::before{background-color:#292929}.intro07 .tp-bullets.simplebullets.round .bullet.selected{background-color:#ec1a49!important}.project-page .tp-bullets.simplebullets.round .bullet::before{background-color:#292929}.project-page .tp-bullets.simplebullets.round .bullet.selected{background-color:#ec1a49!important}.featured-caption-one span{border-color:#ec1a49}.works-item-inner{background-color:#fff!important}.elements-counter .number{color:#fff}.journal-block:hover h3{color:#ec1a49}.journal-block{border-color:#ec1a49}.works-item-inner h3:after{border-color:#ec1a49}.caption-stamp{border-color:#ec1a49}.feature-block{border-color:#ec1a49}.client-block{border-color:#ec1a49}body,p{font-family:'designova_ss_regular',sans-serif}
