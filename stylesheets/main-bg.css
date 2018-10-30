@@ -1,0 +1,68 @@
+/* MAIN-BG.CSS contains Background Image paths & definition rules powered by CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+.stats-bg{
+    background-image: url('../images/bg/01.jpg');
+}
+.contact-bg {
+    background-image: url('../images/bg/02.jpg');
+}
+.light-bg {
+	background-image: url('../images/bg/03.jpg');
+}
+
+
+/* sets base style for each page */
+ /*{
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+/* set background image per page */
+/*.dhive-bg {
+background-image: url('../images/bg/02.jpg') no-repeat center center fixed;
+}
+.dcode-bg {
+background-image: url(images/about.bg.jpg) no-repeat center center fixed;
+}
+.excelcope-bg {
+background-image: url(images/contact-bg.jpg) no-repeat center center fixed;
+}
+
+.gosafe-bg {
+background-image: url(images/contact-bg.jpg) no-repeat center center fixed;
+}*/
+
+
+}
+.team-01-carousel-item-01{
+    background-image: url('../images/team/01.jpg');
+}
+.team-01-carousel-item-02{
+    background-image: url('../images/team/02.jpg');
+}
+.team-01-carousel-item-03{
+    background-image: url('../images/team/03.jpg');
+}
+.project-01-carousel-item-01{
+	background-image: url('../images/project/project01/01.jpg');
+}
+.project-01-carousel-item-02{
+	background-image: url('../images/project/project01/02.jpg');
+}
+.project-01-carousel-item-03{
+	background-image: url('../images/project/project01/03.jpg');
+}
+.parallax-showcase-01{
+	background-image: url('../images/featured/01.jpg');
+}
+.parallax-showcase-02{
+	background-image: url('../images/featured/02.jpg');
+}
+.parallax-showcase-03{
+	background-image: url('../images/featured/03.jpg');
+}
+.foot-print{
+    background-image: url('../images/footer.jpg');
+}
